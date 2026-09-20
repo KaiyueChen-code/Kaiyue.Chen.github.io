@@ -1353,6 +1353,14 @@ a {
   object-fit: cover;
 }
 
+.pub-media--diagram {
+  background: white;
+}
+
+.pub-media--diagram img {
+  object-fit: contain;
+}
+
 .pub-body h3 {
   margin: 0.35rem 0 0.48rem;
   font-family: var(--serif);

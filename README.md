@@ -1,4 +1,4 @@
-# Kaiyue Chen — Academic Homepage
+# Kaiyue Chen’s Homepage
 
 Personal academic homepage for Kaiyue Chen, an undergraduate in Mechatronics
 and Robotic Systems at Xi'an Jiaotong-Liverpool University.
@@ -34,3 +34,6 @@ version made with the built-in imagegen tool. Prompt: remove the white
 background to transparent alpha, preserve the navy shield and exact Chinese
 and English lettering, retain white details inside the shield, and trim
 excessive outer padding.
+
+The Peking University emblem in `images/pku-logo.png` is the red circular
+school emblem from the [PKU Identification System Office](https://vim.pku.edu.cn/xzzq/).

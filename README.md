@@ -19,10 +19,10 @@ The selected publication, 3WD-VLA, is accepted at EAI CollaborateCom 2026.
 The CV link is omitted because
 the previous site's configured `files/CV-Kaiyue-Chen.pdf` was not present.
 
-Canonical and social-sharing URLs use the GitHub Pages project path for this
-repository: `https://kaiyuechen-code.github.io/Kaiyue.Chen.github.io/`.
-Update these URLs in `index.html` if the repository is renamed or a custom
-domain is configured.
+Canonical and social-sharing URLs use the GitHub Pages user-site address:
+`https://kaiyuechen24.github.io/`.
+Update these URLs in `index.html` if the repository name or custom domain
+changes.
 
 The visual template is adapted from Jiayi Zhang's academic homepage.
 The original MIT license is retained in `LICENSE`.
